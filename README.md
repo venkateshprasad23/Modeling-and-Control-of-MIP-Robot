@@ -4,7 +4,7 @@ Course Project for MAE 280A Linear Systems Theory, taken during Fall 2019.
 
 ## Description
 
-This project aims to model and control the MiP (Mobile Inverted Pendulum) Robot, developed by WowWee Robotics, in collaboration\
+This project aims to model and control the MiP (Mobile Inverted Pendulum) Robot, developed by WowWee Robotics, in collaboration
 with UCSD Coordinated Robotics Lab headed by Professor Tom Bewley.\
 \
 The task is to design a discrete linear state-estimate feedback controller for MiP that performs decently. \
